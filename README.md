@@ -1,2 +1,2 @@
 # hardware-checker
-A software for check hardware powered by IA
+A software for check hardware created using IA
